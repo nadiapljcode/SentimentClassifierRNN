@@ -34,13 +34,31 @@ This project implements a Recurrent Neural Network (RNN)-based sentiment analysi
 # 📂 Project Structure
 
 
-SentimentClassifierRNN/
-.
-    ├── build                   # Compiled files (alternatively `dist`)
-    ├── docs                    # Documentation files (alternatively `doc`)
-    ├── src                     # Source files (alternatively `lib` or `app`)
-    ├── test                    # Automated tests (alternatively `spec` or `tests`)
-    ├── tools                   # Tools and utilities
-    ├── LICENSE
-    └── README.md   
+```plaintext
+sentiment-analysis-project/
+│
+├── .gitignore
+├── README.md
+├── requirements.txt
+├── run.bat
+├── main.py
+│
+├── model/
+│   ├── DecisionTreeClassifier.pkl
+│   ├── ExtraTreesClassifier.pkl
+│   ├── RandomForestClassifier.pkl
+│   ├── RNNClassifier.pkl
+│   └── rnnClassifier.h5
+│
+├── data/
+│   ├── data.csv
+│   └── tests.csv
+│
+├── notebooks/
+│   ├── Untitled.ipynb
+│   └── Untitled1.ipynb
+│
+├── .venv/
+└── catboost_info/
+```
 
