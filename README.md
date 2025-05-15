@@ -56,6 +56,10 @@ sentiment-analysis-project/
 └── catboost_info/
 ```
 
+## 🛠️ Architecture 
+![image](https://github.com/user-attachments/assets/8ea40846-2c7e-496b-ad01-c390fd72dc2c)
+
+
 ## 🚀 Getting Started
 1. Clone the repo
 2. Install requirements:  
