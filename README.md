@@ -29,7 +29,7 @@
 
 ## 📂 Project Structure
 
-```plaintext
+```
 sentiment-analysis-project/
 │
 ├── README.md
@@ -61,7 +61,7 @@ sentiment-analysis-project/
 2. Install requirements:  
    `pip install -r requirements.txt`
 3. Run:  
-   `python dashboard.py`
+   `run.bat`
    
 ## Screenshots
 
