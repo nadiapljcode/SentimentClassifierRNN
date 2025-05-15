@@ -26,6 +26,35 @@ This project implements a Recurrent Neural Network (RNN)-based sentiment analysi
 - NLP: Tokenization, Stemming, Lemmatization, TF-IDF
 - Balancing: SMOTE
 - Models:
-    DecisionTreeClassifier
-    RandomForestClassifier
+    DecisionTreeClassifier,
+    RandomForestClassifier,
     Recurrent Neural Network (SimpleRNN)
+---
+
+# 📂 Project Structure
+
+SentimentClassifierRNN/
+│
+├── README.md
+├── requirements.txt
+├── run.bat
+├── main.py
+│
+├── model/
+│   ├── DecisionTreeClassifier.pkl
+│   ├── ExtraTreesClassifier.pkl
+│   ├── RandomForestClassifier.pkl
+│   ├── RNNClassifier.pkl
+│   └── rnnClassifier.h5
+│
+├── data/
+│   ├── data.csv
+│   └── tests.csv
+│
+├── notebooks/
+│   ├── Untitled.ipynb
+│   └── Untitled1.ipynb
+│
+├── .venv/             
+└── catboost_info/    
+
