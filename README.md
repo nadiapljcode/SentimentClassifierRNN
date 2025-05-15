@@ -16,6 +16,7 @@ This project implements a Recurrent Neural Network (RNN)-based sentiment analysi
 * Model evaluation: Accuracy, Precision, Recall, F1, Confusion Matrix
 * Predict unseen data with GUI interface
 * Model persistence using joblib
+  
 ---
 
 # ⚙️ Technologies Used
@@ -33,11 +34,9 @@ This project implements a Recurrent Neural Network (RNN)-based sentiment analysi
 
 # 📂 Project Structure
 
-
 ```plaintext
 sentiment-analysis-project/
 │
-├── .gitignore
 ├── README.md
 ├── requirements.txt
 ├── run.bat
@@ -61,4 +60,7 @@ sentiment-analysis-project/
 ├── .venv/
 └── catboost_info/
 ```
+
+---
+
 
