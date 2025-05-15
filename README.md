@@ -45,15 +45,9 @@ sentiment-analysis-project/
 │   └── rnnClassifier.h5
 │
 ├── data/
-│   ├── data.csv
-│   └── tests.csv
-│
-├── notebooks/
-│   ├── Untitled.ipynb
-│   └── Untitled1.ipynb
-│
-├── .venv/
-└── catboost_info/
+    ├── data.csv
+    └── tests.csv
+
 ```
 
 ## 🛠️ Architecture 
