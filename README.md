@@ -33,6 +33,7 @@ This project implements a Recurrent Neural Network (RNN)-based sentiment analysi
 
 # 📂 Project Structure
 
+`
 SentimentClassifierRNN/
 │
 ├── README.md
@@ -57,4 +58,4 @@ SentimentClassifierRNN/
 │
 ├── .venv/             
 └── catboost_info/    
-
+`
