@@ -77,22 +77,22 @@ sentiment-analysis-project/
 ## 💻 Screenshots
 
 ### Uploading Dataset
-<img width="441" alt="image" src="https://github.com/user-attachments/assets/2f848359-af51-4598-bbe6-39d1e985cbf9" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/2f848359-af51-4598-bbe6-39d1e985cbf9" />
 
 ### Preprocessing and Splitting Data
-<img width="433" alt="image" src="https://github.com/user-attachments/assets/bfdd3d89-0c34-43f7-8700-3ed0656f207c" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/bfdd3d89-0c34-43f7-8700-3ed0656f207c" />
 
 ### Training Decision Tree Model
-<img width="445" alt="image" src="https://github.com/user-attachments/assets/52848bd1-77d2-4aff-9570-50c40508ce31" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/52848bd1-77d2-4aff-9570-50c40508ce31" />
 
 ### Training Random Forest Model
-<img width="455" alt="image" src="https://github.com/user-attachments/assets/cccd6f85-c0d7-4921-8579-408b8cd8a423" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/cccd6f85-c0d7-4921-8579-408b8cd8a423" />
 
 ### Training RNN Model
-<img width="445" alt="image" src="https://github.com/user-attachments/assets/ffcdb5dc-fff7-4444-9817-4eb100ed46a2" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/ffcdb5dc-fff7-4444-9817-4eb100ed46a2" />
 
 ### Prediction
-<img width="433" alt="image" src="https://github.com/user-attachments/assets/4ae2f771-ab0f-4345-9a58-037b775aa5ac" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/4ae2f771-ab0f-4345-9a58-037b775aa5ac" />
 
 
 ## 🚀 Getting Started
