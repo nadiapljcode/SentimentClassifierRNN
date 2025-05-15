@@ -4,8 +4,7 @@ This project implements a Recurrent Neural Network (RNN)-based sentiment analysi
 # Dynamic Sentiment Classification Using RNN
 * A Tkinter-based GUI application for sentiment analysis across global markets, leveraging machine learning algorithms and Recurrent Neural Networks (RNNs). This tool classifies multilingual textual data (like tweets or reviews) into sentiment categories (1–5 stars) and supports real-time predictions using pre-trained models.
 
----
-
+  
 # 📌 Features
 * Upload and preprocess datasets with stopword removal, stemming, and TF-IDF
 * Multilingual support via Label Encoding
@@ -15,9 +14,8 @@ This project implements a Recurrent Neural Network (RNN)-based sentiment analysi
 * Deep Learning: Recurrent Neural Network (RNN) with Keras
 * Model evaluation: Accuracy, Precision, Recall, F1, Confusion Matrix
 * Predict unseen data with GUI interface
-* Model persistence using joblib
-  
----
+* Model persistence using joblib  
+
 
 # ⚙️ Technologies Used
 
@@ -30,7 +28,7 @@ This project implements a Recurrent Neural Network (RNN)-based sentiment analysi
     DecisionTreeClassifier,
     RandomForestClassifier,
     Recurrent Neural Network (SimpleRNN)
----
+
 
 # 📂 Project Structure
 
@@ -61,6 +59,7 @@ sentiment-analysis-project/
 └── catboost_info/
 ```
 
----
+
+# Screenshots
 
 
