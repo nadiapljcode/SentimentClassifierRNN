@@ -5,7 +5,8 @@ This project implements a Recurrent Neural Network (RNN)-based sentiment analysi
 * A Tkinter-based GUI application for sentiment analysis across global markets, leveraging machine learning algorithms and Recurrent Neural Networks (RNNs). This tool classifies multilingual textual data (like tweets or reviews) into sentiment categories (1–5 stars) and supports real-time predictions using pre-trained models.
 
 ---
-# Features
+
+# 📌 Features
 * Upload and preprocess datasets with stopword removal, stemming, and TF-IDF
 * Multilingual support via Label Encoding
 * Class balancing using SMOTE
@@ -17,15 +18,14 @@ This project implements a Recurrent Neural Network (RNN)-based sentiment analysi
 * Model persistence using joblib
 ---
 
-# Technologies Used
+# ⚙️ Technologies Used
 
-Languages & Libraries: Python, NLTK, Scikit-learn, Imbalanced-learn, TensorFlow/Keras
-GUI: Tkinter
-Visualization: Matplotlib, Seaborn
-NLP: Tokenization, Stemming, Lemmatization, TF-IDF
-Balancing: SMOTE
-Models:
-DecisionTreeClassifier
-RandomForestClassifier
-ExtraTreesClassifier
-Recurrent Neural Network (SimpleRNN)
+- Languages & Libraries: Python, NLTK, Scikit-learn, Imbalanced-learn, TensorFlow/Keras
+- GUI: Tkinter
+- Visualization: Matplotlib, Seaborn
+- NLP: Tokenization, Stemming, Lemmatization, TF-IDF
+- Balancing: SMOTE
+- Models:
+    DecisionTreeClassifier
+    RandomForestClassifier
+    Recurrent Neural Network (SimpleRNN)
