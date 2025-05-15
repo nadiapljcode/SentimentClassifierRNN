@@ -58,14 +58,6 @@ sentiment-analysis-project/
 
 ## 🛠️ Architecture 
 ![image](https://github.com/user-attachments/assets/8ea40846-2c7e-496b-ad01-c390fd72dc2c)
-
-
-## 🚀 Getting Started
-1. Clone the repo
-2. Install requirements:  
-   `pip install -r requirements.txt`
-3. Run:  
-   `run.bat`
    
 ## Performance Analysis
 - Here we have compared the proposed algorithm (RNN) with baseline algorithms to evaluate performance using various metrics and confusion matrices.
@@ -81,3 +73,12 @@ sentiment-analysis-project/
 
 
 - From the confusion matrix, we observe that RNN provides better sentiment classification performance in most categories
+
+## 💻 Screenshots
+
+## 🚀 Getting Started
+1. Clone the repo
+2. Install requirements:  
+   `pip install -r requirements.txt`
+3. Run:  
+   `run.bat`
