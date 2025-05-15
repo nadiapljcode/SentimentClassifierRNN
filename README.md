@@ -63,6 +63,20 @@ sentiment-analysis-project/
 3. Run:  
    `run.bat`
    
-## Screenshots
+## Performance Analysis
+- Here we have compared the proposed algorithm (RNN) with baseline algorithms to evaluate performance using various metrics and confusion matrices.
 
+### Confusion Matrix - Decision Tree Classifier
+<img width="401" alt="image" src="https://github.com/user-attachments/assets/43c922ac-0471-41d3-a12d-3652d07e8d93" />
 
+--
+
+### Confusion Matrix - Random Forest Classifier
+<img width="375" alt="image" src="https://github.com/user-attachments/assets/0e3afc4b-f72d-4219-ba79-044ff869ad98" />
+
+--
+
+### Confusion Matrix - Recurrent Neural Network
+<img width="418" alt="image" src="https://github.com/user-attachments/assets/62cd2601-b977-4ca8-a697-02a72a5a2e3b" />
+
+- From the confusion matrix, we observe that RNN provides better sentiment classification performance in most categories
