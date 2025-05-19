@@ -95,3 +95,6 @@ sentiment-analysis-project/
    `pip install -r requirements.txt`
 3. Run:  
    `run.bat`
+   
+## Final Output
+- To watch video please click [here](https://youtu.be/JYTq258e97E)
